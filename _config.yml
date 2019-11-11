@@ -77,11 +77,13 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - cablelabs/lpwanserver
- - cablelabs/snaps-boot
  - cablelabs/drp-python
  - cablelabs/micronets-manager
  - cablelabs/micronets-identity-service
  - cablelabs/bsa-serviceability
+ - cablelabs/snaps-boot
+ - cablelabs/snaps-openstack
+ - cablelabs/snaps-kubernetes
 
 
 #Stackoverflow flair is optional
