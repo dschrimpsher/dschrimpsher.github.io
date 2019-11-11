@@ -76,15 +76,14 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - dschrimpsher/python-example
- - dschrimpsher/docker-example
  - cablelabs/lpwanserver
  - cablelabs/micronets-manager
  - cablelabs/snaps-boot
  - cablelabs/drp-python
  - cablelabs/micronets-identity-service
  - cablelabs/bsa-serviceability
- 
+ - dschrimpsher/python-example
+ - dschrimpsher/docker-example
 
 #Stackoverflow flair is optional
 stackoverflow:
