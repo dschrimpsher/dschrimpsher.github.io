@@ -92,14 +92,21 @@ intro: |
   Future Infrastructure Group Lead Software Developer. I work with next generation network operations and security, edge computing, web services, machine learning, and a little bit of everything else. I have worked with Python, C/C++, Node.js, and Java in the last two years. I am fluent in MongoDB, MySQL, PostgreSQL, and Oracle, as well as JSON, XML, RDF/OWL, and YAML. 26 years as a Linux/Unix expert.
 
 additionalinfo: |
-  Research areas:  Ontologies/Knowledge Bases, Unsupervised Learning algorithms, Intent Based Networking, and Intelligent Agents.</p>
-  <p><strong>Publications:</strong></p><p><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "A model to predict quality of a reduced ontology for Web service discovery on mobile devices." <em>The Knowledge Engineering Review</em> 29.2 (2014): 201-216.</p>
-  <p><strong>Schrimpsher, Dan</strong>, Zhiqiang Wu, Anthony M. Orme, and Letha Etzkorn."Dynamic ontology version control." <em>Proceedings of the 48th Annual Southeast Regional Conference.</em> ACM, 2010.</p>
-  <p><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "An empirical quality model for web service ontologies to support mobile devices." <em>2009 3rd International Symposium on Empirical Software Engineering and Measurement.</em> IEEE, 2009.</p>
-  <p><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "Sub-graphing web service ontologies to support resource constraints of mobile devices." <em>Proceedings of the 47th Annual Southeast Regional Conference.</em> ACM, 2009.</p>
-  <p>Narayanan, N. Hari, and <strong>Dan J. Schrimpsher</strong>. "Extending eye tracking to analyse interactions with multimedia information presentations." <em>People and Computers XIV—Usability or Else!.</em> Springer, London, 2000. 271-286.</p>
-  <p>Hansen, Steven R., N. Hari Narayanan, and <strong>Dan Schrimpsher</strong>. "Helping learners visualize and comprehend algorithms." <em>Interactive Multimedia Electronic Journal of Computer-Enhanced Learning</em> 2.1 (2000): 10.</p>
-  <p><strong>Patents:</strong></p>
-  <p>Levensalor, R., Pisarski, S.M., Corcimiglia, C.J. and <strong>Schrimpsher, D.</strong>, Cable Television Labs Inc, 2018. <em>Systems and methods for disaggregated software defined networking control.</em> U.S. Patent Application 16/000,721.</p>
-  <p>Padden, J., Williams, T.H., Dennis, J.R., Malas, D.W., <strong>Schrimpsher, D.</strong> and Jones, D.D., Cable Television Labs Inc, 2019. <em>Smart taps.</em> U.S. Patent Application 16/154,935.</p>  
-  
+  <strong>Research Areas</strong>:  <ul>
+   <li>Ontologies/Knowledge Bases</li>
+   <li>Unsupervised Learning algorithms</li> 
+   <li>Intent Based Networking</li> 
+   <li>Intelligent Agents.</li>
+  </ul>
+  <strong>Publications:</strong> <ul>
+   <li><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "A model to predict quality of a reduced ontology for Web service discovery on mobile devices." <em>The Knowledge Engineering Review</em> 29.2 (2014): 201-216.</li>
+   <li><strong>Schrimpsher, Dan</strong>, Zhiqiang Wu, Anthony M. Orme, and Letha Etzkorn."Dynamic ontology version control." <em>Proceedings of the 48th Annual Southeast Regional Conference.</em> ACM, 2010.</li>
+   <li><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "An empirical quality model for web service ontologies to support mobile devices." <em>2009 3rd International Symposium on Empirical Software Engineering and Measurement.</em> IEEE, 2009.</li>
+   <li><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "Sub-graphing web service ontologies to support resource constraints of mobile devices." <em>Proceedings of the 47th Annual Southeast Regional Conference.</em> ACM, 2009.</li>
+   <li>Narayanan, N. Hari, and <strong>Dan J. Schrimpsher</strong>. "Extending eye tracking to analyse interactions with multimedia information presentations." <em>People and Computers XIV—Usability or Else!.</em> Springer, London, 2000. 271-286.</li>
+   <li>Hansen, Steven R., N. Hari Narayanan, and <strong>Dan Schrimpsher</strong>. "Helping learners visualize and comprehend algorithms." <em>Interactive Multimedia Electronic Journal of Computer-Enhanced Learning</em> 2.1 (2000): 10.</li>
+  </ul>
+  <strong>Patents:</strong><ul>
+  <li>Levensalor, R., Pisarski, S.M., Corcimiglia, C.J. and <strong>Schrimpsher, D.</strong>, Cable Television Labs Inc, 2018. <em>Systems and methods for disaggregated software defined networking control.</em> U.S. Patent Application 16/000,721.</li>
+  <li>Padden, J., Williams, T.H., Dennis, J.R., Malas, D.W., <strong>Schrimpsher, D.</strong> and Jones, D.D., Cable Television Labs Inc, 2019. <em>Smart taps.</em> U.S. Patent Application 16/154,935.</li>  
+  </ul>
