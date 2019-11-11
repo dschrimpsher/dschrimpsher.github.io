@@ -93,7 +93,9 @@ stackoverflow:
 intro: |
   Future Infrastructure Group Lead Software Developer. I work with next generation network operations and security, edge computing, web services, machine learning, and a little bit of everything else. I have worked with Python, C/C++, Node.js, and Java in the last two years. I am fluent in MongoDB, MySQL, PostgreSQL, and Oracle, as well as JSON, XML, RDF/OWL, and YAML. 26 years as a Linux/Unix expert.
 
-additionalInfo: |
+additionalinfo: |
+  Research Areas
+ignore: |  
   <p>Research areas:  Ontologies/Knowledge Bases, Unsupervised Learning algorithms, Intent Based Networking, and Intelligent Agents.</p>
   <p><strong>Publications:</strong></p><p><strong>Schrimpsher, Dan</strong>, and Letha Etzkorn. "A model to predict quality of a reduced ontology for Web service discovery on mobile devices." <em>The Knowledge Engineering Review</em> 29.2 (2014): 201-216.</p>
   <p><strong>Schrimpsher, Dan</strong>, Zhiqiang Wu, Anthony M. Orme, and Letha Etzkorn."Dynamic ontology version control." <em>Proceedings of the 48th Annual Southeast Regional Conference.</em> ACM, 2010.</p>
