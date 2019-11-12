@@ -58,6 +58,32 @@ roles:
    end: 2011
    employer: Decisive Analytics Corporation
    description: Program manager for condition based maintenance & data fusion group within Missile Defense Algorithms Division (MDAD).  Supervise multiple contracts as well as functioning as Principle Investigator for failure prognostics SBIR with the Army IAMD Project Office (Invited to Phase 2 and Phase 3).  
+ - title: Senior Software Engineer
+   start: 2005
+   end: 2008
+   employer: Applied Data Trends
+   description: Project lead for joint track management communications solutions for army air and missile defense.  Also serve as a senior developer on the Common Data Link Interfaced tactical communications system for Army LTPO.
+ - title: Senior Software Engineer
+   start: 2003
+   end: 2004
+   employer: L3 Commonications
+   description:
+ - title: Principle Engineer
+   start: 2002
+   end: 2003
+   employer: JT3
+   description:
+ - title: Developer
+   start: 2001
+   end: 2002
+   employer: Phase IV Engineering
+   description:
+ - title: Programmer Analyst
+   start: 1998
+   end: 2001
+   employer: Teledyne Brown Engineering
+   description:
+
 
 #Education is required
 education:
